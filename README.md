@@ -1,5 +1,6 @@
 # Pizzaprices
-Python script for calculating the price of a pizza
+Python script for calculating the price of a pizza.
+
 Description:
 
 Write a program that allows the user to calculate the price of a pizza. A pizza has:
